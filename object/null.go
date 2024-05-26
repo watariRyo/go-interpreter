@@ -1,4 +1,4 @@
-package obhect
+package object
 
 type Null struct{}
 
